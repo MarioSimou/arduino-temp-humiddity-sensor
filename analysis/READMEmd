@@ -1,0 +1,11 @@
+## Installation
+
+```
+conda create -name [env] --file requirements.txt
+```
+
+### Update requirements
+
+```
+conda list -e > requirements.txt
+```
